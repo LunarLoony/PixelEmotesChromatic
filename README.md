@@ -23,7 +23,7 @@ If you wanna use it with anything else, go right ahead! (And drop me a message i
 
 # Included emoticons
 
-![Base](_base.png) - Base
+![Base](bases/red.png) ![Base](bases/pink.png) ![Base](bases/purple.png) ![Base](bases/indigo.png) ![Base](bases/darkblue.png) ![Base](bases/blue.png) ![Base](bases/lightblue.png) ![Base](bases/turquoise.png) ![Base](bases/green.png) ![Base](bases/lime.png) ![Base](bases/yellow.png) ![Base](bases/orange.png) - Base
 
 ![Angel](angel.png) - Angelic
 
