@@ -1,0 +1,211 @@
+name: Pixel Emotes - Chromatic
+version: 1.0
+description: "A handmade set of emoticons for Grav!"
+author:
+  name: Tim Scott
+  email: 
+homepage: http://spacefarer.space
+license: GNU General Public Licence v3
+
+smileys:
+
+  8B:
+    enabled: true
+    acronyms: ":8B:"
+    description: "8B"
+
+  angel:
+    enabled: true
+    acronyms: "O:-) O:) O+) O=) 0:-3 0:3 0:-) 0:) 0+) 0=) 0;^) :angel: :innocent:"
+    description: "Angelic"
+
+  angry:
+    enabled: true
+    acronyms: ">:( >:-( ):( ):-( 8( )8-( )B( )B-( (:-& (:& X-( X("
+    description: "Angry"
+
+  blushing:
+    enabled: true
+    acronyms: ":'> :'-> :-. :. :v :-v ^^;"
+    description: "Blush"
+
+  confused:
+    enabled: true
+    acronyms: ":? :-? ^~^ %-( %( :S"
+    description: "Say what?"
+
+  cool:
+    enabled: true
+    acronyms: "B) B-) 8) 8-)"
+    description: "Duuuuuude..."
+
+  crying:
+    enabled: true
+    acronyms: ":'-( :'( :'-) :') :*( :*-( :,( :,-("
+    description: "Crying"
+
+  cute:
+    enabled: true
+    acronyms: ":3 :-3 :} :-}"
+    description: "N'aww."
+
+
+  devil:
+    enabled: true
+    acronyms: ":devil:"
+    description: "Bwahaha!"
+
+  evil:
+    enabled: true
+    acronyms: ":evil:"
+    description: "Evil"
+
+  frowning:
+    enabled: true
+    acronyms: ":( :-( +( +-( =( =-("
+    description: "Sad"
+
+  gasping:
+    enabled: true
+    acronyms: ":O :-O :0 :-0 :wow: :shocked:"
+    description: "My God!"
+
+  greedy:
+    enabled: true
+    acronyms: "$) $$) $-) $$-) $> $-> $$> $-> $$->"
+    description: "Lods of emone"
+
+  grinning:
+    enabled: true
+    acronyms: ">:D :-D :D +D =-D =D =-3 =3 :grin:"
+    description: "Big Grin"
+
+  happy_smiling:
+    enabled: true
+    acronyms: ":> :-> ^^) ^^-) ^^D ^^-D ^^ ^_^"
+    description: "Happy"
+
+  heart:
+    enabled: true
+    acronyms: "<3 <<3"
+    description: "Closer to the heart"
+
+  hug:
+    enabled: true
+    acronyms: ":hug:"
+    description: "Hug"
+
+  irritated:
+    enabled: true
+    acronyms: ">_< X| X-|"
+    description: "Irritated"
+
+  kissing:
+    enabled: true
+    acronyms: ":-* :* :-{} :{} +{} ={} o3o"
+    description: "But first, let me take a selfie."
+
+  laughing:
+    enabled: true
+    acronyms: "x-D xD :lol: :rofl:"
+    description: "Laughing"
+    
+  lips_sealed:
+    enabled: true
+    acronyms: ":X :x :sealed:"
+    description: "My lips are sealed!"
+
+  madness:
+    enabled: true
+    acronyms: "8-D 8D *_* :la:"
+    description: "La la la la"
+
+  pouting:
+    enabled: true
+    acronyms: "+(( =(( :-c :c :C"
+    description: "Pout"
+
+  rockon:
+    enabled: true
+    acronyms: ":rock:"
+    description: "Rock on!"
+
+  smiling:
+    enabled: true
+    acronyms: ":-) :) +) :o) :] :c) :> =] 8) =) :} :^)"
+    description: "Smiling"
+
+  speechless:
+    enabled: true
+    acronyms: ":-| :| =| =-| :undecided:"
+    description: "Blank Stare"
+    
+  srsface:
+    enabled: true
+    acronyms: ".-. ._."
+    description: "srsface"
+
+  stupid:
+    enabled: true
+    acronyms: "8-S 8S :dummy: :stupid:"
+    description: "I am a dummy!"
+
+  surprised:
+    enabled: true
+    acronyms: "o_O o_0 o.O o.0"
+    description: "Surprised"
+
+  surprised_2:
+    enabled: true
+    acronyms: "O_o 0_o O.o 0.o"
+    description: "Surprised"
+
+  terrified:
+    enabled: true
+    acronyms: ":-(( :(( :-< :< :-[ :[ :{ D:"
+    description: "Eep!"
+
+  thumbs_down:
+    enabled: true
+    acronyms: ":qp: :thumbsdown:"
+    description: "Thumbs Down"
+
+  thumbs_up:
+    enabled: true
+    acronyms: ":d3: :thumbsup:"
+    description: "Thumbs Up"
+
+  tired:
+    enabled: true
+    acronyms: "zO Z-O :! :-! :1 :-1 zZ :yawn: :tired: :sleepy:"
+    description: "Sleepy"
+
+  unsure:
+    enabled: true
+    acronyms: ":\ :-\ :\\ :-\\ =\\ =-\\"
+    description: "Unsure"
+
+  unsure_2:
+    enabled: true
+    acronyms: ":/ :-/ :// :-// =/ =-/"
+    description: "Unsure"
+    
+  verysad:
+    enabled: true
+    acronyms: ":verysad: :please:"
+    description: "Pleeeeaaase??"
+
+  wave:
+    enabled: true
+    acronyms: ":wave:"
+    description: "Wave"
+
+  winking:
+    enabled: true
+    acronyms: ";) ;-)"
+    description: "Winking"
+
+  wrong:
+    enabled: true
+    acronyms: ":wrong:"
+    description: "WRONG WRONG WRONG WRONG WRONG WRONG WRONG!"
